@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.section1{
+    height: 80vh;
+    background-color: #E554731A;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.img{
+    width: 550px;
+}
+.ti{
+    font-size: 45px;
+    width: 400px;
+}
+.pi{
+    width: 634px;
+    font-size: 18px;
+    color: #27272799;
+    padding-top: 18px;
+}
+.button{
+    color:  #FFFFFF;
+    background-color: #E55473;
+    border: none;
+    margin-top: 18px;
+    padding: 12px 22px;
+    border-radius: 5px;
+}
+.first{
+    padding-left: 120px;
+}
+.second{
+    padding-top: 82px;
+    padding-right: 100px;
+}
+.hot-deal-container{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E554730D;
+    padding: 30px;
+    height: 500px;
+}
+.off{
+    color: red;
+}
+.hot-fist{
+    text-align:center;
+    padding-right: 250px;
+}
+.ass{
+    font-size: 26px;
+}
+.insta{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    flex-direction: column;
+
+}
+h1{
+    padding-bottom: 5px;
+}
+.pii{
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    width: 634px;
+    font-size: 18px;
+    color: #27272799;
+    padding-top: 18px;
+}
+.img-insta{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding-top: 20px; */
+    margin-top: 45px;
+    padding-left: 145px;
+    padding-right: 145px;
+}
+.cardphoto{
+    width: 300px;
+}
+.getthelatestdeal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+    background-image: url('./Asset/Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-left: 190px;
+    margin-right: 190px;
+ }
+.dealtitle{
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.deal{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.inputemail input{
+    display: inline;
+    width: 50%;
+    margin-top: 20px;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 5px;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    height: 400px;
+    margin-top: 100px;
+    padding: 10px;
+}
+.foot{
+    color: white;
+    text-align: center;
+}
+.flower{
+    color: red;
+}
+.shop{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.shoppa{
+    padding-bottom: 20px;
+    width: 550px;
+    color: #FFFFFFE5;
+}
+.copyright{
+    color:#FFFFFF66;
+}
