@@ -86,7 +86,6 @@ h1{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* padding-top: 20px; */
     margin-top: 45px;
     padding-left: 145px;
     padding-right: 145px;
@@ -153,4 +152,111 @@ h1{
 }
 .copyright{
     color:#FFFFFF66;
+}
+
+.fphoto{
+    width: 200px;
+    background-color: #A7216226;
+    
+}
+.bouns{
+    height: 94vh;
+}
+.img-flower{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.i-flower{
+    width: 400px;
+    height: 450px;
+    background-color: #A7216226;
+    margin-right: 30px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+}
+.i-flower2{
+    width: 400px;
+    height: 450px;
+    background-color: #0597A026;
+    margin-right: 30px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+}
+.i-flower3{
+    width: 400px;
+    height: 450px;
+    background-color: #477D1126;
+    margin-right: 30px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+}
+.card{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50px 50px 50px;
+}
+.fphoto1{
+    width: 300px;
+    height: 350px;
+    padding-top: 52px;
+}
+
+
+.fphoto3{
+    width: 300px;
+    height: 350px;
+    padding-top: 52px;
+}
+.p1,.p3{
+    padding-top: 15px;
+    text-decoration: underline;
+}
+.p2{
+    padding-top: 45px;
+    text-decoration: underline;
+}
+
+
+.bouus2-container{
+    display: flex;
+    /* margin-top: 50px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.bonustittle{
+    font-size: 55px;
+    text-align: center;
+}
+.bounspi{
+    width: 450px;
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    padding-top: 10px;
+}
+.seemore{
+    text-align: center;
+    margin-top: 5px;
+}
+.button2{
+    color:  #FFFFFF;
+    background-color: #E55473;
+    border: none;
+    margin-top: 18px;
+    padding: 12px 22px;
+    border-radius: 5px;
+    text-align: center;
 }
