@@ -16,7 +16,7 @@ body{
 
 }
 .img{
-    width: 550px;
+    width: 515px;
 }
 .ti{
     font-size: 45px;
@@ -69,6 +69,9 @@ body{
     margin-top: 100px;
     flex-direction: column;
 
+}
+.our{
+    font-size: 30px;
 }
 h1{
     padding-bottom: 5px;
@@ -172,7 +175,7 @@ h1{
     width: 400px;
     height: 450px;
     background-color: #A7216226;
-    margin-right: 30px;
+    margin-right: 70px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 
@@ -181,7 +184,7 @@ h1{
     width: 400px;
     height: 450px;
     background-color: #0597A026;
-    margin-right: 30px;
+    margin-right: 70px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 
@@ -190,7 +193,7 @@ h1{
     width: 400px;
     height: 450px;
     background-color: #477D1126;
-    margin-right: 30px;
+    margin-right: 70px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 
@@ -237,13 +240,13 @@ h1{
 
 }
 .bonustittle{
-    font-size: 55px;
+    font-size: 45px;
     text-align: center;
 }
 .bounspi{
     width: 450px;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     color: gray;
     padding-top: 10px;
 }
